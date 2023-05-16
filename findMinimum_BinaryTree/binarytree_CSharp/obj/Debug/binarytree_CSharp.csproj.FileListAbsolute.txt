@@ -1,0 +1,40 @@
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe.config
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\bin\Debug\binarytree_CSharp.pdb
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.AssemblyReference.cache
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.CoreCompileInputs.cache
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\obj\Debug\binarytree_CSharp.exe
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\obj\Debug\binarytree_CSharp.pdb
+C:\AADS\binarytree exercise\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe.config
+C:\AADS\binarytree exercise\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe
+C:\AADS\binarytree exercise\binarytree_CSharp\bin\Debug\binarytree_CSharp.pdb
+C:\AADS\binarytree exercise\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.AssemblyReference.cache
+C:\AADS\binarytree exercise\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\AADS\binarytree exercise\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.CoreCompileInputs.cache
+C:\AADS\binarytree exercise\binarytree_CSharp\obj\Debug\binarytree_CSharp.exe
+C:\AADS\binarytree exercise\binarytree_CSharp\obj\Debug\binarytree_CSharp.pdb
+C:\AADS\Test2Q2 snippet\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe.config
+C:\AADS\Test2Q2 snippet\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe
+C:\AADS\Test2Q2 snippet\binarytree_CSharp\bin\Debug\binarytree_CSharp.pdb
+C:\AADS\Test2Q2 snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.AssemblyReference.cache
+C:\AADS\Test2Q2 snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\AADS\Test2Q2 snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.CoreCompileInputs.cache
+C:\AADS\Test2Q2 snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.exe
+C:\AADS\Test2Q2 snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.pdb
+Y:\2_2023-05-13 164G\_E2STEM 2023 IT2A AADS\PT3 Re-Test\Test3Q2 snippet\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe.config
+Y:\2_2023-05-13 164G\_E2STEM 2023 IT2A AADS\PT3 Re-Test\Test3Q2 snippet\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe
+Y:\2_2023-05-13 164G\_E2STEM 2023 IT2A AADS\PT3 Re-Test\Test3Q2 snippet\binarytree_CSharp\bin\Debug\binarytree_CSharp.pdb
+Y:\2_2023-05-13 164G\_E2STEM 2023 IT2A AADS\PT3 Re-Test\Test3Q2 snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.AssemblyReference.cache
+Y:\2_2023-05-13 164G\_E2STEM 2023 IT2A AADS\PT3 Re-Test\Test3Q2 snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.SuggestedBindingRedirects.cache
+Y:\2_2023-05-13 164G\_E2STEM 2023 IT2A AADS\PT3 Re-Test\Test3Q2 snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.CoreCompileInputs.cache
+Y:\2_2023-05-13 164G\_E2STEM 2023 IT2A AADS\PT3 Re-Test\Test3Q2 snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.exe
+Y:\2_2023-05-13 164G\_E2STEM 2023 IT2A AADS\PT3 Re-Test\Test3Q2 snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.pdb
+C:\Users\student\Downloads\Q2BST_Snippet\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe.config
+C:\Users\student\Downloads\Q2BST_Snippet\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe
+C:\Users\student\Downloads\Q2BST_Snippet\binarytree_CSharp\bin\Debug\binarytree_CSharp.pdb
+C:\Users\student\Downloads\Q2BST_Snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Q2BST_Snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\Q2BST_Snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Q2BST_Snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.exe
+C:\Users\student\Downloads\Q2BST_Snippet\binarytree_CSharp\obj\Debug\binarytree_CSharp.pdb
